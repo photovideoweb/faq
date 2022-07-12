@@ -1,8 +1,8 @@
 ---
-title: "Basic Startup"
+title: "Commencez rapidemment"
 date: 2018-12-29T11:02:05+06:00
 icon: "fas fa-sliders-h" # fontawesome icon : https://fontawesome.com/icons
-description: "Cras at dolor eget urna varius faucibus tempus in elit dolor sit amet."
+description: "Les tutoriaux de prise en main pour être au top en 5 minutes"
 # type dont remove or customize
 type : "docs"
 ---

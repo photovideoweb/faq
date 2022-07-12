@@ -1,7 +1,6 @@
 ---
-title: "Changelog posts"
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt dolore magna aliquyam erat, sed diam voluptua. At vero eos et ustoLorem ipsum dolor sit amet, consetetur."
-layout: "changelog"
+title: "Le journal des modifications"
+description: "La seule chose qui ne change pas c'est le changement"
 draft: false
 ---
 

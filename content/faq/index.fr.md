@@ -1,5 +1,5 @@
 ---
-title: "Mostly Asked Questions"
+title: "Les questions les plus fréquentes"
 description: "this is meta description"
 draft: false
 _build:
